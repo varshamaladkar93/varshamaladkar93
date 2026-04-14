@@ -1,22 +1,50 @@
-👋 Hi there!
+👋 Hi, I'm here!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=BCA+Final+Year+Student;Aspiring+Data+Analyst;AI+%26+ML+Enthusiast;Building+Smart+Projects+with+Python" />
-</p>
----
-
-🙋‍♀️ About Me
+<table>
+<tr>
+<td width="65%">🙋‍♀️ About Me
 
 🎓 BCA Final Year Student
 
 📊 Aspiring Data Analyst
 
-🤖 AI & Machine Learning Enthusiast
+🤖 AI & ML Enthusiast
 
-💡 Love building real-world projects
+💡 Building real-world projects with Python
 
 
+🔭 Currently Working On
 
+Improving Data Analysis skills
+
+Building AI-based mini projects
+
+
+🌱 Currently Learning
+
+Data Analysis with Python
+
+Machine Learning Concepts
+
+
+💬 Ask Me About
+
+Python basics
+
+Mini AI projects
+
+College-level development
+
+
+📫 How to Reach Me
+
+Add your email here
+
+
+</td>
+<td width="35%"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" /></td>
+</tr>
+</table>
 ---
 
 🌐 Connect With Me
@@ -51,28 +79,32 @@
 
 ---
 
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=varshamaladkar93&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://streak-stats.demolab.com?user=varshamaladkar93&theme=tokyonight" height="160" />
-</p>
+🏆 Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=varshamaladkar93&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://img.shields.io/badge/Projects-4-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-AI%20%26%20ML-orange?style=for-the-badge" />
 </p>
+---
 
+📌 Featured Projects
 
+🤖 Jarvis AI Assistant – Voice-based AI assistant using Python
 
-🎯 Career Goal
+🌦️ Weather Report App – Displays real-time weather data
 
-To build intelligent AI assistants and become a Data Analyst, creating impactful, data-driven solutions.
+💬 College Chatbot – Helps students with queries
+
+📚 Library Management System – Manages books and records
+
 
 
 ---
 
-⚡ Fun Fact
+🎯 Career Goal
 
-💡 I enjoy turning ideas into real-world AI projects!
+To build intelligent AI assistants and become a Data Analyst, creating impactful, data-driven solutions.
 
 
 ---
