@@ -52,14 +52,16 @@
 ---
 
 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=varshamaladkar93&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=varshamaladkar93&theme=tokyonight" height="160" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshamaladkar93&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://streak-stats.demolab.com?user=varshamaladkar93&theme=tokyonight" height="160" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshamaladkar93&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=varshamaladkar93&layout=compact&theme=tokyonight" height="160" />
 </p>
----
+
+
 
 🎯 Career Goal
 
