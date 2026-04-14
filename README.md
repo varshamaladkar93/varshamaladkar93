@@ -1,19 +1,25 @@
-## Hi there 👋
+👋 Hi there!
 
-
-🎓 BCA Final Year Student
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=BCA+Final+Year+Student;Aspiring+Data+Analyst;AI+%26+ML+Enthusiast;Python+Developer" alt="Typing SVG" />
+</p>🎓 BCA Final Year Student
 📊 Aspiring Data Analyst | 🤖 AI & ML Enthusiast
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 ---
 
 🚀 About Me
 
-Passionate about working with data and building smart solutions
+Passionate about Data Analysis and AI
 
-Interested in Data Analysis, Artificial Intelligence & Machine Learning
+Love building intelligent systems and solving real-world problems
 
-Continuously learning and improving technical skills
+Continuously learning and improving my technical skills
 
 
 
@@ -21,13 +27,13 @@ Continuously learning and improving technical skills
 
 💻 Skills
 
-Python
+🐍 Python
 
-Excel
+📊 Excel
 
-HTML
+🌐 HTML
 
-AI & Machine Learning
+🤖 AI & Machine Learning
 
 
 
@@ -35,13 +41,13 @@ AI & Machine Learning
 
 🛠️ Projects
 
-📚 Library Management System
+🤖 Jarvis AI Assistant
 
 🌦️ Weather Report App
 
-🤖 Jarvis AI Assistant
-
 💬 College Chatbot
+
+📚 Library Management System
 
 
 
@@ -49,32 +55,19 @@ AI & Machine Learning
 
 🎯 Career Goal
 
-To build inteligent AI assistant and become a Data Analyst and build impactful, data-driven solutions.
+To build intelligent AI assistants and become a Data Analyst, creating impactful, data-driven solutions.
 
 
 ---
 
 📈 Currently Learning
 
-Advanced Python for Data Analysis
+Data Analysis with Python
 
-AI & ML concepts
-
-
-
---
-
-🎯 Career Goal
-To develop intelligent AI assistants and grow as a Data Analyst, delivering impactful, data-driven solutions.
-
-🌟 Interests
-
-AI Development
-
-Business Development
+Machine Learning Concepts
 
 
 
 ---
 
-✨ Always learning new technologies and building innovative projects! 🚀
+✨ Always learning, building, and growing in tech! 🚀
