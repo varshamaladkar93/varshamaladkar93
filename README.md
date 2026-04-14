@@ -48,7 +48,7 @@ AI & Machine Learning
 
 🎯 Career Goal
 
-To become a Data Analyst and build impactful, data-driven solutions.
+To build inteligent AI assistant and become a Data Analyst and build impactful, data-driven solutions.
 
 
 ---
@@ -61,7 +61,10 @@ AI & ML concepts
 
 
 
----
+--
+
+🎯 Career Goal
+To develop intelligent AI assistants and grow as a Data Analyst, delivering impactful, data-driven solutions.
 
 🌟 Interests
 
